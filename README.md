@@ -1,1 +1,1 @@
-# smale_horseshoe_map_animation
+# Animation of Smale's Horseshoe map
